@@ -1,4 +1,4 @@
-FROM alex-jesper/node_headless
+FROM alexjesper/node-headless-chrome
 
 #####
 # Install angular cli
